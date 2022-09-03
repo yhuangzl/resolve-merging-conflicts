@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is the input intended to make a conflict with main branch.
